@@ -1,0 +1,15 @@
+//if,else if ,else
+let nivelDeFome =  5
+
+if(nivelDeFome === 1)
+{
+console.log("Estou com pouca fome")
+}
+else if(nivelDeFome ===2)
+{
+console.log("Estou com fome")
+}
+else
+{
+console.log("Estou morrendo de fome")
+}

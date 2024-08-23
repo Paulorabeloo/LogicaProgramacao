@@ -1,6 +1,6 @@
 let Ligado = true
-​
-if(Ligado)
+
+if(Ligado) 
 {
   console.log("Executou comando")
 }
